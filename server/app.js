@@ -13,7 +13,7 @@ app.use(cors());
 app.use(express.json());
 
 // Connect to the database
-
+// qwerty
 // Mount routes
 app.use("/api/users", userRoutes);
 app.use("/api/products", productRoutes);
